@@ -17,6 +17,11 @@ a:hover {
   cursor: pointer;
 }
 
+small {
+  font-family: "Poppins", sans-serif;
+  margin: 0 0 0 10px;
+}
+
 .App {
   font-family: "Poppins", sans-serif;
   margin: 60px auto 0 auto;
@@ -126,4 +131,8 @@ a:hover {
 
 .temperatures {
   margin: 0 0 50px 45px;
+}
+
+.link-github {
+  font-weight: 600;
 }
